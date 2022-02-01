@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @RhukananiDesignsWebs
-- 👀 I’m interested in Designing webs and I mean I also build and design websites sometimes. 
-- 🌱 I’m currently learning as much as I can about web development and programming in general my curiosity is boundless. 
+- 👀 I’m interested in 
+  - Designing webs 
+  - ...and I mean I also build and design websites sometimes. 
+- 🌱 I’m currently learning 
+  - as much as I can about web development and programming in general my curiosity is boundless. 
 - 📫 How to reach me you can 
   - you can reach me on facebook @rhukdesignwebs
   - on twitter @rhukthewebdesigner
